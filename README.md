@@ -11,6 +11,8 @@
 
 [Zu Twitter Raspberry Tweets](https://twitter.com/123iot)
 
+[Zum Youtube Channel](https://www.youtube.com/user/xcom360/videos)
+
 
 
 
