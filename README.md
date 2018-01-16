@@ -5,6 +5,8 @@
 
 [Zum Blog](https://blog.unixweb.de)
 
+[Zum Wiki](http://wiki.joachimhummel.de/index.php?title=Hauptseite)
+
 [Zur Google Plus Sammlung](https://plus.google.com/collection/YGhXX)
 
 [Zum Google Profile](https://plus.google.com/u/0/+JoachimHummel)
