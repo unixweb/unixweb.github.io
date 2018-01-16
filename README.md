@@ -16,7 +16,7 @@
 [Zum Youtube Channel](https://www.youtube.com/user/xcom360/videos)
 
 
-
+<img src="http://wiki.joachimhummel.de/images/thumb/e/ee/Google_Voice_AIY_Kit.jpeg/576px-Google_Voice_AIY_Kit.jpeg" height="300">
 
 
 
