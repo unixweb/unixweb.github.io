@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 362a97d942bb571c4a5372df0412e9b074de7197
 
 
 [Zu meinem Blog](https://blog.unixweb.de)
